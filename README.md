@@ -1,7 +1,7 @@
 # Home_Sales
 Module 22 Challenge
 
-
+![Sales-Home-Volume](https://github.com/f2-b2/Home_Sales/assets/118685191/3a7003b8-4808-42dd-a651-095d90267c20)
 
 ## Background
 
